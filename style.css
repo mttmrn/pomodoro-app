@@ -1,0 +1,13 @@
+body {
+    background-color: #e4854e;
+    font-family: "Open Sans", sans-serif;
+}
+
+h2 {
+    display: inline;
+}
+
+#start, #minus5Break, #minus5Clock, #add5Break, #add5Clock{
+    margin: 10px;
+}
+
