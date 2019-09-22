@@ -11,3 +11,10 @@ h2 {
     margin: 10px;
 }
 
+.text-center {
+    margin-top: 150px;
+}
+
+.btn, .btn-primary {
+    padding: 0px 8px 0px 8px;
+}
